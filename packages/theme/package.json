@@ -1,0 +1,4 @@
+{
+  "name": "@popup/theme",
+  "main": "src/index.scss"
+}
